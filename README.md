@@ -1,10 +1,10 @@
-# 🚗 License Plate Detection using OpenCV and Tesseract OCR
+# License Plate Detection using OpenCV and Tesseract OCR
 
 A Python-based project that detects license plates from vehicle images using OpenCV for image processing and Tesseract OCR for text recognition.
 
 ---
 
-## 📦 Features
+## Features
 
 - Detects vehicle license plates from images or video streams.
 - Uses OpenCV for image processing and contour detection.
@@ -14,7 +14,7 @@ A Python-based project that detects license plates from vehicle images using Ope
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Python
 - OpenCV
